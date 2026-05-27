@@ -1,9 +1,5 @@
 {
   "version": "1.0.5",
   "download_url": "https://github.com/okdude42/sh-ui/releases/latest/download/SirHurtV5.exe",
-  "changelog": "Fixed indication status
-Fixed moving tab animation
-Fixed UI freezing when injecting or executing
-Fixed pink outline for banners when using other themes
-Fixed lua console"
+  "changelog": "Fixed indication status\nFixed moving tab animation\nFixed UI freezing when injecting or executing\nFixed pink outline for banners when using other themes\nFixed lua console"
 }
