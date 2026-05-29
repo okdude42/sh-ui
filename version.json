@@ -1,5 +1,5 @@
 {
   "version": "1.0.6",
   "download_url": "https://github.com/okdude42/sh-ui/releases/download/1.0.6/SirHurtV5.zip",
-  "changelog": "Fixed auto execute manager\nFixed 12 chars max for custom title\nRemoved discord rich presence\n And more fixes"
+  "changelog": "Fixed auto execute manager\nFixed 12 chars max for custom title\nRemoved discord rich presence\nAnd more fixes"
 }
