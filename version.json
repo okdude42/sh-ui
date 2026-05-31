@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "download_url": "https://github.com/okdude42/sh-ui/releases/download/1.0.7/SirHurtV5.zip",
-  "changelog": "Minor - 5/30/2026\n\nFixed updating resetting settings\nFully added luau support for the monaco editor\nFixed webview2 breaking after the UI being opened for over 30 minutes\nFixed lua console errors not showing properly\nAdded error indications in editor\nSmall visual changes to account manager\nFixed webview2 making the UI flash black\nAdded UI version tag in the loader"
+  "version": "1.0.8",
+  "download_url": "https://github.com/okdude42/sh-ui/releases/download/1.0.8/SirHurtV5.zip",
+  "changelog": "Hotfix - 5/31/2026\n\n• Fixed color picker brightness slider\n• Global opened is now properly implemented, it wont duplicate opens and its also live now"
 }
