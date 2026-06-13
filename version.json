@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "download_url": "https://github.com/okdude42/sh-ui/releases/download/1.0.9/SirHurtV5.zip",
-  "changelog": "Hotfix - 5/31/2026\n\n• Loader now follows theme accent instead of always being pink\n• Fixed SirHurt download and update state not following theme accent\n• Remade account manager, it is now much simpler and only has servers and using accounts"
+  "version": "1.1",
+  "download_url": "https://github.com/okdude42/sh-ui/releases/download/1.1/SirHurtV5.zip",
+  "changelog": "Update v1.1\n\n• SirHurt Downgrader: Keep bootstrapper window visible so users can click the Continue button manually\n• SirHurt Downgrader: Fixed loading screen getting stuck for 2 minutes if the bootstrapper failed/exited early\n• SirHurt Downgrader: Added a custom 'SirHurt Was Downgraded' prompt to update to the latest build easily\n\nHotfix - 5/31/2026\n• Loader now follows theme accent instead of always being pink\n• Fixed SirHurt download and update state not following theme accent\n• Remade account manager, it is now much simpler and only has servers and using accounts"
 }
